@@ -1,6 +1,7 @@
 # keyball44
 
 以下のファームの改良版
+
 https://github.com/takashicompany/qmk_firmware/tree/keyball
 
 上のkeyballブランチをチェックアウトして、以下のディレクトリのソースを置き換え
