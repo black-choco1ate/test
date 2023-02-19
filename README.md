@@ -21,7 +21,7 @@ qmk_firmware/keyboards/keyball/keyball44/keymaps/takashicompany/
 |マウスレイヤ解除時間減少|0x5DB5|マウスレイヤを解除する時間を減少させる|
 
 
-##追加変更してある機能
+## 追加変更してある機能
 
 1. マウスレイヤ中のLED点灯
 1. マウスレイヤの解除までの時間調整キーの設定
@@ -29,6 +29,6 @@ qmk_firmware/keyboards/keyball/keyball44/keymaps/takashicompany/
 1. スクロール方向の反転
 1. レイヤ5枚化
 
-##注意点
+## 注意点
 
 残りメモリが少ないので気をつけること
